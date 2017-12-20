@@ -1,6 +1,6 @@
 #! /usr/bin/env sh
 
-THEME='nachi-falls-4k'
+THEME='anime-santa-girl-4k'
 
 echo 'Removing theme from GRUB themes directory, if exists'
 sudo rm -rf /boot/grub/themes/$THEME
