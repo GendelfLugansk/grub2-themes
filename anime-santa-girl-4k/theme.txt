@@ -1,0 +1,50 @@
+# Global properties
+title-text: ""
+desktop-image: "background.jpg"
+desktop-color: "#000000"
+terminal-font: "Unifont Regular 16"
+terminal-box: "terminal_box_*.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# Boot menu
++ boot_menu {
+  left = 45%
+  top = 15%
+  width = 50%
+  height = 60%
+  item_font = "Unifont Regular 16"
+  selected_item_font = "Unifont Bold 16"
+  item_color = "#000000"
+  selected_item_color = "#B61527"
+  item_height = 36
+  item_spacing = 0
+  item_padding = 0;
+  item_pixmap_style = "item_*.png"
+}
+
+# Countdown message
++ label {
+  left = 45%
+  top = 100%-48
+  width = 50%
+  align = "center"
+  id = "__timeout__"
+  color = "#000000"
+  font = "Unifont Regular 16"
+  text = "Booting in %d seconds"
+}
+
+# Navigation keys hint 
++ label {
+  left = 45%
+  top = 100%-24
+  width = 50%
+  align = "center"
+  color = "#000000"
+  font = "Unifont Regular 16"
+  text = "Use ↑ and ↓ keys to change selection, Enter to confirm"
+}
