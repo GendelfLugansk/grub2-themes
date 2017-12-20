@@ -1,7 +1,7 @@
 ## GRUB 2 themes
 
 ##### Nachi Falls (4k)
-[![preview](nachi-falls-4k/preview.jpg)](nachi-falls-4k/README.md)
+[![preview](nachi-falls-4k/preview.jpg)](nachi-falls-4k)
 
 ### Installation
 
