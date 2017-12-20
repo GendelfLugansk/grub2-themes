@@ -6,7 +6,7 @@ GRUB 2 theme for ultra-hd displays
 
 ### Installation / update
 
-cd to this directory and run run `install.sh`
+cd to this directory and run `sudo install.sh`
 
 ### Additional info
 
