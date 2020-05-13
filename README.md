@@ -15,6 +15,9 @@
 ##### Tera Elf Priest (4k)
 [![preview](tera-elf-priest-4k/preview.jpg)](tera-elf-priest-4k)
 
+##### Seoul at night (4k)
+[![preview](seoul-at-night-4k/preview.jpg)](seoul-at-night-4k)
+
 ### Installation
 
 cd to directory with theme you are interested in and run `sudo install.sh`
